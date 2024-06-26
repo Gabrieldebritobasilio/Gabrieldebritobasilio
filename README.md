@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel de Brito Basilio; Programador Front-end!
 <br>
-<img heiht="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true">
+<img heiht="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrieldebritobasilio&theme=dark&show_icons=true">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
